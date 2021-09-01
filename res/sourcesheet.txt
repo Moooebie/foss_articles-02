@@ -1,0 +1,109 @@
+1.资源
+1.1.header_img/ASF_LOGO.svg
+来源: https://www.apache.org/foundation/press/kit/#logo
+作者: Apache软件基金会
+使用场景: 头图
+许可证: Apache License 2.0 (受商标法保护)
+NOTICE: 不存在
+
+1.2.header_img/gpl-v3-logo.svg
+来源: https://www.gnu.org/graphics/license-logos.html
+作者: 自由软件基金会
+使用场景: 头图
+许可证: 公有领域
+
+1.3.header_img/MIT_logo.svg
+来源: https://en.wikipedia.org/wiki/MIT_License#/media/File:MIT_logo.svg
+作者: MIT设计，Wikipedia @Mysid矢量化
+使用场景: 头图
+许可证: 公有领域
+
+1.4.header_img/BSD_wordmark.svg
+来源: https://en.wikipedia.org/wiki/BSD_licenses#/media/File:BSD_wordmark.svg
+作者: FreeBSD团队
+使用场景: 头图
+许可证: 公有领域
+
+1.5.how_license_work/Handshake.jpg
+来源: https://flickr.com/photos/43555660@N00/27326532662
+作者: Flickr @Carine06
+使用场景: how_license_work.png (段落0x02)
+许可证：CC-BY-SA-2.0
+
+1.6.PD-icon-black.svg.png
+来源: https://commons.wikimedia.org/wiki/File:PD-icon-black.svg
+作者: 未知
+使用场景: 段落0x12
+许可证: 公有领域
+
+1.7.miui.jpg
+来源: https://flickr.com/photos/30364433@N05/26627234711
+作者: Maurizio Pesce
+使用场景: 段落0x13
+许可证: CC-BY-2.0
+
+1.8.foss_vs_proprietary/fsf-logo.svg
+来源: https://commons.wikimedia.org/wiki/File:Free_Software_Foundation_logo_and_wordmark.svg
+作者: 自由软件基金会
+使用场景: 自由、开源、私有软件对比图
+许可证: 公有领域 (受商标法保护)
+
+1.9.foss_vs_proprietary/OSI_Keyhole.svg
+来源: https://opensource.org/node/442
+作者: 开放源代码促进会
+使用场景: 自由、开源、私有软件对比图
+许可证: 公有领域 (受商标法保护)
+
+1.10.wtfpl_translation.*
+来源: http://www.wtfpl.net/about/ (英文原文)
+作者: Sam Hocevar (英文原文), HeroCreeper (中文翻译)
+使用场景: 段落0x23
+许可证: wtfpl (等效公有领域)
+
+
+2.原创
+此目录下上述未提及的文件均为原创作品。若无特别说明，以CC-BY-SA-4.0发布。
+
+3.侵权
+如果此目录下任何文件侵犯了您的著作权，请通过Email联系我。
+
+
+4.格式
+4.1.PNG
+说明: 常见图片格式
+打开方式: 多数现代图片查看/编辑器
+
+4.2.JPG
+说明: 常见图片格式
+打开方式: 多数现代图片查看/编辑器
+
+4.3.TXT
+说明: 纯文本文件
+打开方式: 任意文本查看/编辑器
+备注: 编码方式为UTF-8
+
+4.4.SVG
+说明: 矢量图
+打开方式: 多数现代图片查看器/编辑器
+
+4.5.ODG
+说明: LibreOffice Draw设计文档
+打开方式: LibreOffice Draw (或许Microsoft Publisher也支持?)
+
+4.6.ODS
+说明: LibreOffice Calc表格
+打开方式: LibreOffice Calc或Microsoft Excel
+备注: MS Excel可能有兼容性问题
+
+4.7.ODT
+说明: LibreOffice Writer文档
+打开方式: LibreOffice Writer或Microsoft Word
+备注: MS Word可能有兼容性问题
+
+4.8.XCF
+说明: GIMP图像文档
+打开方式: GIMP (或许Photoshop也支持?)
+
+4.9.XMIND
+说明: XMIND思维导图
+打开方式: Xmind
